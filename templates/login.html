@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Login</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" href="imgs/favicon.ico"/>
+	<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+
+</head>
+<body>
+	<script src="login.js"></script>
+<center>
+	<h1>Sign In</h1><br>
+
+	<label for="name">Enter Name: </label>
+	<input id="name" name="name" placeholder="Ur name...">
+	<br>
+	<br>
+	<label for="pass">Enter Password: </label>
+	<input id="pass" type="password" name="pass" placeholder="Password">
+	<button class="passtgl" id="passbtn" onclick="passtgl()">show</button>
+	<br>
+	<br>
+	<br>
+
+
+	<button class="enter" onclick="save_login()">Go!</button>
+</center>
+</body>
+<style>
+.enter{
+	margin-left:-23px;
+	font-size: 30px;
+}
+body{
+  background-color:#000005;
+  font-family: 'Secular One', sans-serif;
+  color:white;
+ 	font-size: 30px;
+
+}
+input{
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 19px;
+}
+
+
+</style>
+</html>

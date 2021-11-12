@@ -1,0 +1,318 @@
+<html>
+	<style>
+ html, body {
+	 margin: 0;
+	 padding: 0;
+}
+ body {
+	 background-color: #fafafa;
+	 color: #1d1f20;
+	 font-family: 'Raleway', sans-serif;
+}
+
+	.green{
+		background: rgb(103,250,82);
+		background: linear-gradient(306deg, rgba(103,250,82,1) 0%, rgba(75,249,136,1) 100%); 
+	}
+	.red{
+		background: rgb(250,82,82);
+		background: linear-gradient(122deg, rgba(250,82,82,1) 0%, rgba(185,41,41,1) 100%); 
+	}
+
+	.up{
+		margin-top:0.5rem;
+		margin-left: auto;
+		margin-right: auto;
+		height: 49%;
+		width: 98%;
+		border: solid black 3px;
+	}
+	.down{
+		margin: auto;
+		height: 49%;
+		width: 98%;
+		border: solid black 3px;
+	}
+
+	.text{
+		font-size: 40pt;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	.subline{
+		font-size: 22;
+	}
+	.user,.last,.time{
+		text-align: center;
+	}
+	.logutbtn{
+		position: absolute; 
+  		width: 100px;
+  		bottom: 30;
+		right: 40;
+	}.calbtn{
+		position: absolute; 
+		text-align: center;
+  		width: 100px;
+  		bottom: 30;
+		right: 160;
+	}
+
+	.button-24 {
+	  background: #425eff;
+	  border: 1px solid #425eff;
+	  border-radius: 6px;
+	  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+	  box-sizing: border-box;
+	  color: #FFFFFF;
+	  cursor: pointer;
+	  display: inline-block;
+	  font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+	  font-size: 16px;
+	  font-weight: 800;
+	  line-height: 16px;
+	  min-height: 40px;
+	  outline: 0;
+	  text-align: center;
+	  text-rendering: geometricprecision;
+	  text-transform: none;
+	  user-select: none;
+	  -webkit-user-select: none;
+	  touch-action: manipulation;
+	  vertical-align: middle;
+	}
+
+	.button-24:hover,
+	.button-24:active {
+	  background-color: initial;
+	  background-position: 0 0;
+	  color: #425eff;
+	}
+
+	.button-24:active {
+	  opacity: .5;
+	}
+
+	.button-66 {
+	  background-color: #0a6bff;
+	  border-radius: 4px;
+	  border: 0;
+	  box-shadow: rgba(1,60,136,.5) 0 -1px 3px 0 inset,rgba(0,44,97,.1) 0 3px 6px 0;
+	  box-sizing: border-box;
+	  color: #fff;
+	  cursor: pointer;
+	  display: inherit;
+	  font-family: "Space Grotesk",-apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	  font-size: 18px;
+	  font-weight: 700;
+	  line-height: 24px;
+	  margin: 0;
+	  min-height: 56px;
+	  min-width: 120px;
+	  padding: 16px 20px;
+	  position: relative;
+	  text-align: center;
+	  user-select: none;
+	  -webkit-user-select: none;
+	  touch-action: manipulation;
+	  vertical-align: baseline;
+	  transition: all .2s cubic-bezier(.22, .61, .36, 1);
+	  width: 150px;
+	  margin: 0 auto;
+
+	}
+
+	.button-66:hover {
+	  background-color: #065dd8;
+	  transform: translateY(-2px);
+	}
+
+	@media (min-width: 768px) {
+	  .button-66 {
+	    padding: 16px 44px;
+	    min-width: 150px;
+	  }
+	}
+
+	@import url(https://fonts.googleapis.com/css?family=Montserrat:900|Raleway:400,400i,700,700i);
+
+	 ol.gradient-list > li, ol.gradient-list > li::before {
+		 box-shadow: 0.25rem 0.25rem 0.6rem rgba(0, 0, 0, 0.05), 0 0.5rem 1.125rem rgba(75, 0, 0, 0.05);
+	}
+
+	 *, *:before, *:after {
+		 box-sizing: border-box;
+	}
+
+	 main {
+		 display: block;
+		 margin: 0 auto;
+		 max-width: 40rem;
+		 padding: 1rem;
+	}
+	 ol.gradient-list {
+		 counter-reset: gradient-counter;
+		 list-style: none;
+		 margin: 1.75rem 0;
+		 padding-left: 1rem;
+	}
+	 ol.gradient-list > .ey,ol.gradient-list >.pz {
+		 background: white;
+		 border-radius: 0 0.5rem 0.5rem 0.5rem;
+		 counter-increment: gradient-counter;
+		 margin-top: 2rem;
+		 min-height: 3rem;
+		 padding: 1rem 1rem 1rem 3rem;
+		 position: relative;
+	}
+	 ol.gradient-list > .ey::before, ol.gradient-list > .ey::after {
+		 background: linear-gradient(135deg, #83e4e2 0%, #a2ed56 100%);
+		 border-radius: 1rem 1rem 0 1rem;
+		 content: '';
+		 height: 3rem;
+		 left: -1rem;
+		 overflow: hidden;
+		 position: absolute;
+		 top: -1rem;
+		 width: 3rem;
+	} ol.gradient-list > .pz::before, ol.gradient-list > .pz::after {
+		 background: linear-gradient(135deg, #d44646 0%, #ed9556 100%);
+		 border-radius: 1rem 1rem 0 1rem;
+		 content: '';
+		 height: 3rem;
+		 left: -1rem;
+		 overflow: hidden;
+		 position: absolute;
+		 top: -1rem;
+		 width: 3rem;
+	}
+	 ol.gradient-list > .ey::before , ol.gradient-list > .pz::before {
+		 align-items: flex-end;
+		 content: counter(gradient-counter);
+		 color: #1d1f20;
+		 display: flex;
+		 font: 900 1.5em/1 'Montserrat';
+		 justify-content: flex-end;
+		 padding: 0.125em 0.25em;
+		 z-index: 1;
+	}
+
+	.log{
+		padding-left: 10%;
+		margin-bottom: -0.5rem;
+	}
+
+	.frog{
+		z-index: 0;
+		width: 20%;
+		position: absolute;
+		bottom: 10;
+		left: 14;
+		-webkit-transform: scaleX(-1);
+  		transform: scaleX(-1);
+	}
+
+	li.removed-item {
+	    animation: removed-item-animation .6s cubic-bezier(.55,-0.04,.91,.94) forwards;
+	}
+	 
+	@keyframes removed-item-animation {
+	    from {
+	        opacity: 1;
+	        transform: scale(1);
+	    }
+	 
+	    to {
+	        opacity: 0;
+	        transform: scale(0);
+	    }
+	}
+	 
+	li.restored-item {
+	    animation: 
+	        /*make sure to open space up before bringing the item into position*/
+	        openspace .3s ease forwards, 
+	        restored-item-animation .3s .3s cubic-bezier(0,.8,.32,1.07) forwards;
+	}
+	 
+	@keyframes openspace {
+	    to {
+	        height: auto;
+	    }
+	}
+	 
+	@keyframes restored-item-animation {
+	    from {
+	        opacity: 0;
+	        transform: scale(0);
+	    }
+	 
+	    to {
+	        opacity: 1;
+	        transform: scale(1);
+	    }
+	}
+
+
+	 .deletebtn {
+		 color: #fff;
+		 background: #2c545d;
+		 border-radius: 15px;
+		 border: 2px solid #000;
+		 margin: 50px auto 0;
+		 height: 1.7rem;
+		 width: 1.7rem;
+		 overflow: hidden;
+		 position: absolute;
+		 right: -0.5rem;
+		 top: -3.5rem;
+	}
+	 .deletebtn:hover {
+		 background: #3f3f3f;
+		 cursor: pointer;
+	}
+	 .deletebtn:active {
+		 background: #2f2f2f;
+		 cursor: pointer;
+	}
+ 
+
+
+	</style>
+
+	<head>
+		<title>Home</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" type="image/png" href="imgs/favicon.ico"/>
+		<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+	</head>
+	<body>
+		<script src="index.js"></script>
+
+		<div class="up">
+			<h1 id="user" class="user text"></h1>
+			<button id="update" class="button-66 " role="button">Update</button>
+			<button id="logoutbtn" class="button-24 logutbtn" role="button">Logout</x	button	>
+			<a href="/calendar"> <button id="calbtn" class="button-24 calbtn" role="button"><center>Calendar</center></button></a>
+		</div>
+
+		<img class="frog" src="imgs/frog.png">
+		<div class="down">
+			<h1 id="last" class="last text"></h1>
+			<h2 id="time" class="time subline text"></h2>
+		</div>
+
+		<h2 class="log text">Log:</h2>
+		<main>
+		  <ol class="gradient-list">
+		  </ol>
+
+		</main>
+	</body>
+
+
+</html>
