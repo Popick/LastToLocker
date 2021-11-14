@@ -1,0 +1,919 @@
+1636813932707	geckodriver	INFO	Listening on 127.0.0.1:52838
+1636813939319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileC3kRxF"
+1636813939943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileC3kRxF\\search.json.mozlz4", (void 0)))
+1636813943646	Marionette	INFO	Listening on port 52846
+1636813943685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636813951729	Marionette	INFO	Stopped listening on port 52846
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636814005495	geckodriver	INFO	Listening on 127.0.0.1:61928
+1636814093080	geckodriver	INFO	Listening on 127.0.0.1:61967
+1636814105259	geckodriver	INFO	Listening on 127.0.0.1:61972
+1636814111798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilejhqmUd"
+1636814112374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilejhqmUd\\search.json.mozlz4", (void 0)))
+1636814116195	Marionette	INFO	Listening on port 61981
+1636814116720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814361121	Marionette	INFO	Stopped listening on port 61981
+[Parent 26316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ror("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilegBsOxE\\search.json.mozlz4", (void 0)))
+1636814181442	Marionette	INFO	Listening on port 62061
+1636814181731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814359918	Marionette	INFO	Stopped listening on port 62061
+[Parent 24932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofiletdWfG8"
+1636814233620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofiletdWfG8\\search.json.mozlz4", (void 0)))
+1636814236903	Marionette	INFO	Listening on port 62139
+1636814237228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814359097	Marionette	INFO	Stopped listening on port 62139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tte enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileseqwfW\\search.json.mozlz4", (void 0)))
+1636814261660	Marionette	INFO	Listening on port 62456
+1636814261725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814358677	Marionette	INFO	Stopped listening on port 62456
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilejV6aTE"
+1636814336698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilejV6aTE\\search.json.mozlz4", (void 0)))
+1636814339685	Marionette	INFO	Listening on port 62519
+1636814339930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814358017	Marionette	INFO	Stopped listening on port 62519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1636814398489	geckodriver	INFO	Listening on 127.0.0.1:62588
+1636814404949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile1MbMSF"
+1636814405547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile1MbMSF\\search.json.mozlz4", (void 0)))
+1636814408652	Marionette	INFO	Listening on port 62597
+1636814408705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814494921	Marionette	INFO	Stopped listening on port 62597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilevglejr"
+1636814426171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilevglejr\\search.json.mozlz4", (void 0)))
+1636814429474	Marionette	INFO	Listening on port 62655
+1636814429923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636814494139	Marionette	INFO	Stopped listening on port 62655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636814791246	geckodriver	INFO	Listening on 127.0.0.1:49154
+1636814797568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile8a8vQz"
+1636814798085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile8a8vQz\\search.json.mozlz4", (void 0)))
+1636814801341	Marionette	INFO	Listening on port 49163
+1636814801831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636815510206	Marionette	INFO	Stopped listening on port 49163
+[Parent 13840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+avaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636815509664	Marionette	INFO	Stopped listening on port 63747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4\\AppData\\Local\\Temp\\rust_mozprofilee9GalZ\\search.json.mozlz4", (void 0)))
+1636814944913	Marionette	INFO	Listening on port 63806
+1636814945007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636815508994	Marionette	INFO	Stopped listening on port 63806
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ette	INFO	Listening on port 63907
+1636815093001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636815508278	Marionette	INFO	Stopped listening on port 63907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilecUc4Qj\\search.json.mozlz4", (void 0)))
+1636815296863	Marionette	INFO	Listening on port 64002
+1636815297152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636815507422	Marionette	INFO	Stopped listening on port 64002
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofiledGMKaY"
+1636815504192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofiledGMKaY\\search.json.mozlz4", (void 0)))
+1636815508783	Marionette	INFO	Listening on port 55251
+1636815508861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636816136800	Marionette	INFO	Stopped listening on port 55251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4\\AppData\\Local\\Temp\\rust_mozprofilenZxMYI\\search.json.mozlz4", (void 0)))
+1636815790822	Marionette	INFO	Listening on port 59797
+1636815791061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816136266	Marionette	INFO	Stopped listening on port 59797
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileWOyi54\\search.json.mozlz4", (void 0)))
+1636815817467	Marionette	INFO	Listening on port 59864
+1636815817614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816134461	Marionette	INFO	Stopped listening on port 59864
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tte enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilexckWmg\\search.json.mozlz4", (void 0)))
+1636815880005	Marionette	INFO	Listening on port 59927
+1636815880337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816132790	Marionette	INFO	Stopped listening on port 59927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilegTUYY0\\search.json.mozlz4", (void 0)))
+1636816120592	Marionette	INFO	Listening on port 61998
+1636816120848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816132257	Marionette	INFO	Stopped listening on port 61998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636816218679	geckodriver	INFO	Listening on 127.0.0.1:64699
+1636816225162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileEmVwqT"
+1636816225636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileEmVwqT\\search.json.mozlz4", (void 0)))
+1636816228675	Marionette	INFO	Listening on port 64707
+1636816228873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816675761	Marionette	INFO	Stopped listening on port 64707
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileywBbf2\\search.json.mozlz4", (void 0)))
+1636816288902	Marionette	INFO	Listening on port 63983
+1636816289315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816676364	Marionette	INFO	Stopped listening on port 63983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+[Parent 28700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rch.json.mozlz4", (void 0)))
+1636816309786	Marionette	INFO	Listening on port 64048
+1636816310034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816679554	Marionette	INFO	Stopped listening on port 64048
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8968, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile5loyVv\\search.json.mozlz4", (void 0)))
+1636816361746	Marionette	INFO	Listening on port 52422
+1636816362053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816678796	Marionette	INFO	Stopped listening on port 52422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rror("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileOhteuy\\search.json.mozlz4", (void 0)))
+1636816388874	Marionette	INFO	Listening on port 52483
+1636816388924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816680172	Marionette	INFO	Stopped listening on port 52483
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile0ahpx6\\search.json.mozlz4", (void 0)))
+1636816441169	Marionette	INFO	Listening on port 52553
+1636816441450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636816680715	Marionette	INFO	Stopped listening on port 52553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tte enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileJbtDzT\\search.json.mozlz4", (void 0)))
+1636816681602	Marionette	INFO	Listening on port 65393
+1636816681844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile658iyc"
+1636816801637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile658iyc\\search.json.mozlz4", (void 0)))
+1636816805414	Marionette	INFO	Listening on port 65496
+1636816805945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636817344032	Marionette	INFO	Stopped listening on port 65496
+[Parent 29336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 29336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636817341939	Marionette	INFO	Stopped listening on port 53001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 32292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileXfGU5n\\search.json.mozlz4", (void 0)))
+1636816990061	Marionette	INFO	Listening on port 53061
+1636816990178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636817341475	Marionette	INFO	Stopped listening on port 53061
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 29640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilesgl0ud\\search.json.mozlz4", (void 0)))
+1636817063965	Marionette	INFO	Listening on port 53125
+1636817064256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636817340848	Marionette	INFO	Stopped listening on port 53125
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 30524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile0JRRLg\\search.json.mozlz4", (void 0)))
+1636817265306	Marionette	INFO	Listening on port 59696
+1636817265691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636817340195	Marionette	INFO	Stopped listening on port 59696
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 28688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636817392639	geckodriver	INFO	Listening on 127.0.0.1:50683
+1636817399146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileGXfkaY"
+1636817399659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileGXfkaY\\search.json.mozlz4", (void 0)))
+1636817403097	Marionette	INFO	Listening on port 50692
+1636817403424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636817443071	geckodriver	INFO	Listening on 127.0.0.1:50754
+1636817449483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileeVsK96"
+1636817450084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileeVsK96\\search.json.mozlz4", (void 0)))
+1636817453101	Marionette	INFO	Listening on port 50762
+1636817453245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636820334547	geckodriver	INFO	Listening on 127.0.0.1:55150
+1636820437573	geckodriver	INFO	Listening on 127.0.0.1:65090
+1636820439364	geckodriver	INFO	Listening on 127.0.0.1:65095
+1636820443623	geckodriver	INFO	Listening on 127.0.0.1:65101
+1636820448047	geckodriver	INFO	Listening on 127.0.0.1:65109
+1636820449170	geckodriver	INFO	Listening on 127.0.0.1:65118
+1636820450016	geckodriver	INFO	Listening on 127.0.0.1:65127
+1636820450830	geckodriver	INFO	Listening on 127.0.0.1:65135
+1636820451991	geckodriver	INFO	Listening on 127.0.0.1:65142
+1636820452824	geckodriver	INFO	Listening on 127.0.0.1:65146
+1636820454376	geckodriver	INFO	Listening on 127.0.0.1:65162
+1636820456178	geckodriver	INFO	Listening on 127.0.0.1:65180
+1636820457530	geckodriver	INFO	Listening on 127.0.0.1:51817
+1636820465313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51818" "-no-remote" "-profile" "C:\\Users\\B6FF~1\\AppData\\Local\\Temp\\rust_mozprofileCH4ntY"
+1636820466056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u05E2\u05D9\u05D3\u05D5 \u05E1\u05D1\u05D2\\AppData\\Local\\Temp\\rust_mozprofileCH4ntY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51818/devtools/browser/551cc6e6-66b4-478b-ac30-833cffc1f505
+1636820468949	Marionette	INFO	Listening on port 51844
+1636820469180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636820484326	Marionette	INFO	Stopped listening on port 51844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636820704231	geckodriver	INFO	Listening on 127.0.0.1:55572
+1636820706473	geckodriver	INFO	Listening on 127.0.0.1:55577
+1636820711275	geckodriver	INFO	Listening on 127.0.0.1:55613
+1636820713337	geckodriver	INFO	Listening on 127.0.0.1:55621
+1636820717675	geckodriver	INFO	Listening on 127.0.0.1:55626
+1636820718925	geckodriver	INFO	Listening on 127.0.0.1:55631
+1636820720896	geckodriver	INFO	Listening on 127.0.0.1:55637
+1636820727901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55638" "-no-remote" "-profile" "C:\\Users\\B6FF~1\\AppData\\Local\\Temp\\rust_mozprofileYFqKvo"
+1636820728291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u05E2\u05D9\u05D3\u05D5 \u05E1\u05D1\u05D2\\AppData\\Local\\Temp\\rust_mozprofileYFqKvo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55638/devtools/browser/b9522ff5-6a27-44ce-a4dd-96d4a01dec85
+1636820730668	Marionette	INFO	Listening on port 55643
+1636820731091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636820793157	Marionette	INFO	Stopped listening on port 55643
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636820795981	geckodriver	INFO	Listening on 127.0.0.1:55708
+1636820797256	geckodriver	INFO	Listening on 127.0.0.1:55712
+1636820797948	geckodriver	INFO	Listening on 127.0.0.1:55716
+1636820806412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55717" "-no-remote" "-profile" "C:\\Users\\B6FF~1\\AppData\\Local\\Temp\\rust_mozprofilelNhKVF"
+1636820806834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u05E2\u05D9\u05D3\u05D5 \u05E1\u05D1\u05D2\\AppData\\Local\\Temp\\rust_mozprofilelNhKVF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55717/devtools/browser/1316d6ff-8e9d-4999-adea-dafea351ac26
+1636820809483	Marionette	INFO	Listening on port 59935
+1636820809619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636821090676	Marionette	INFO	Stopped listening on port 59935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636838379376	geckodriver	INFO	Listening on 127.0.0.1:56011
+1636838386678	mozrunner::runner	INFO	Running command: "C:\\P1636838390854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilekQDug5"
+1636838391317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilekQDug5\\search.json.mozlz4", (void 0)))
+1636838393783	Marionette	INFO	Listening on port 56060
+1636838394087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/contro1636838420148	Marionette	INFO	Stopped listening on port 56021636838421126	Marionette	INFO	Stopped listening on port 56060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 14964, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636838423319	geckodriver	INFO	Listening on 127.0.0.1:56172
+1636838430486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile9hAWIt"
+1636838430927	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile9hAWIt\\search.json.mozlz4", (void 0)))
+1636838433189	Marionette	INFO	Listening on port 56181
+1636838433698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636838450386	Marionette	INFO	Stopped listening on port 56181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636839280329	geckodriver	INFO	Listening on 127.0.0.1:53659
+1636839287656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile4YgEkH"
+1636839288163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile4YgEkH\\search.json.mozlz4", (void 0)))
+1636839290692	Marionette	INFO	Listening on port 53668
+1636839290890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636841005061	Marionette	INFO	Stopped listening on port 53668
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1636841005556	Marionette	INFO	Stopped listening on port 53729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pData\\Local\\Temp\\rust_mozprofileGXMvn5"
+1636840876794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileGXMvn5\\search.json.mozlz4", (void 0)))
+1636840879399	Marionette	INFO	Listening on port 51052
+1636840879502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/contro1636840884949	Marionette	INFO	Stopped listening on port 60109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+el closing: too late to send/recv, messages will be lost
+
+1636840898066	geckodriver	INFO	Listening on 127.0.0.1:51119
+1636840905558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilesbDYst"
+1636840906014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilesbDYst\\search.json.mozlz4", (void 0)))
+1636840908648	Marionette	INFO	Listening on port 51128
+1636840908763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636841007181	Marionette	INFO	Stopped listening on port 51128
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+gram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileccD2xF"
+1636840969229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileccD2xF\\search.json.mozlz4", (void 0)))
+1636840972411	Marionette	INFO	Listening on port 52046
+1636840972501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636841008387	Marionette	INFO	Stopped listening on port 52041636841009369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilebJafLn"
+1636841009813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilebJafLn\\search.json.mozlz4", (void 0)))
+1636841012968	Marionette	INFO	Listening on port 52154
+1636841013094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636841020265	Marionette	INFO	Stopped listening on port 52154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 29064, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636843847803	geckodriver	INFO	Listening on 127.0.0.1:56941
+1636843855865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilefV7lqv"
+1636843856437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilefV7lqv\\search.json.mozlz4", (void 0)))
+1636843859301	Marionette	INFO	Listening on port 56951
+1636843859616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636844041346	Marionette	INFO	Stopped listening on port 56951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilep9omdX"
+1636844041119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilep9omdX\\search.json.mozlz4", (void 0)))
+1636844044657	Marionette	INFO	Listening on port 61809
+1636844044756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilea66rXG"
+1636844090546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilea66rXG\\search.json.mozlz4", (void 0)))
+1636844093808	Marionette	INFO	Listening on port 61884
+1636844094272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636844098446	Marionette	INFO	Stopped listening on port 61884
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636844137026	geckodriver	INFO	Listening on 127.0.0.1:61948
+1636844145195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileYlMTiy"
+1636844145691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileYlMTiy\\search.json.mozlz4", (void 0)))
+1636844149073	Marionette	INFO	Listening on port 61957
+1636844149452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636844158891	Marionette	INFO	Stopped listening on port 61957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 16104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636844219427	geckodriver	INFO	Listening on 127.0.0.1:62041
+1636844227461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilebViIvV"
+1636844228000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofilebViIvV\\search.json.mozlz4", (void 0)))
+1636844230790	Marionette	INFO	Listening on port 62049
+1636844231212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636844237236	Marionette	INFO	Stopped listening on port 62049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 33344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1636844367342	geckodriver	INFO	Listening on 127.0.0.1:62159
+1636844375243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileeUafTW"
+1636844375761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofileeUafTW\\search.json.mozlz4", (void 0)))
+1636844378717	Marionette	INFO	Listening on port 62170
+1636844379011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile9iRaTc"
+1636844728412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile9iRaTc\\search.json.mozlz4", (void 0)))
+1636844731716	Marionette	INFO	Listening on port 59786
+1636844732135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+1636844740226	Marionette	INFO	Stopped listening on port 59786
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1636863715825	geckodriver	INFO	Listening on 127.0.0.1:62993
+1636863722935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile285If4"
+1636863723335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\itay4\\AppData\\Local\\Temp\\rust_mozprofile285If4\\search.json.mozlz4", (void 0)))
+1636863726206	Marionette	INFO	Listening on port 63001
+1636863726710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript warning: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 863: unreachable code after return statement
+JavaScript error: https://berseva.iscool.co.il/controls/SolpartMenu/spmenu.js, line 18: TypeError: oCtl is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
