@@ -1,0 +1,358 @@
+
+			<tbody><tr bgcolor="#ffffff" align="center">
+				<td width="42"></td>
+				<td class="CTitle">יום&nbsp;ראשון 21.11</td>
+				<td class="CTitle">יום&nbsp;שני 22.11</td>
+				<td class="CTitle">יום&nbsp;שלישי 23.11</td>
+				<td class="CTitle">יום&nbsp;רביעי 24.11</td>
+				<td class="CTitle">יום&nbsp;חמישי 25.11</td>
+				<td class="CTitle">יום&nbsp;שישי 26.11</td>
+                
+			</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>0<br><span class="hour-time">00:00</span><br><span class="hour-time">00:00</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>1<br><span class="hour-time">08:10</span><br><span class="hour-time">08:55</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>תורת המבנים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>ביולוגיה</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div><div class="TTLesson"><b>פיסיקה</b>&nbsp;&nbsp;(312 י1 ב)<br>קול סורין</div><div class="TTLesson"><b>מחשבת ישראל</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>מלכה אהרון</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(316 י7)<br>קרייזרמן דיאנה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(304 יא5)<br>פולאק דיאנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(316 י7)<br>קרייזרמן דיאנה</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(308 יא1 ב)<br>מסלטי ויקי</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(206)<br>פרקל טל</div><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;( 311 י1 א)<br>פולאק דיאנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>אנגלית 16385</b>&nbsp;&nbsp;(304 יא5)<br>שוחט מלי</div><div class="TTLesson"><b>אנגלית 16481</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(318 י8)<br>דאבוש גילה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>2<br><span class="hour-time">08:55</span><br><span class="hour-time">09:45</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>פיסיקה</b>&nbsp;&nbsp;(312 י1 ב)<br>קול סורין</div><div class="TTLesson"><b>תורת המבנים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>ביולוגיה</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div><div class="TTLesson"><b>מחשבת ישראל</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>מלכה אהרון</div><div class="TTLesson"><b>תולדות האומנות</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>בן ישראל אתי</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(304 יא5)<br>פולאק דיאנה</div><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(316 י7)<br>קרייזרמן דיאנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;( 311 י1 א)<br>פולאק דיאנה</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(206)<br>פרקל טל</div><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(308 יא1 ב)<br>מסלטי ויקי</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(316 י7)<br>קרייזרמן דיאנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>אנגלית 16481</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div><div class="TTLesson"><b>אנגלית 16587</b>&nbsp;&nbsp;(318 י8)<br>דאבוש גילה</div><div class="TTLesson"><b>אנגלית 16483</b>&nbsp;&nbsp;(304 יא5)<br>שוחט מלי</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>3<br><span class="hour-time">10:00</span><br><span class="hour-time">10:50</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>תולדות האומנות</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>בן ישראל אתי</div><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(415)<br>בלוך יקותיאל</div><div class="TTLesson"><b>שפת C</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>דגן חנן</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>כימיה מעבדה</b>&nbsp;&nbsp;(404)<br>פלקוביץ דורית</div><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(416 תקשורת)<br>חתוקה שני</div><div class="TTLesson"><b>פסיכולוגיה 1</b>&nbsp;&nbsp;(304 יא5)<br>אהוד חנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFreeChange">ביטול פסיכולוגיה 2, חדידה גילאור</td></tr><tr><td class="TableFillChange">חתוקה שני -&gt; חדר: 104 ט3</td></tr></tbody></table><div class="TTLesson"><b>כימיה</b>&nbsp;&nbsp;(304 יא5)<br>פלקוביץ דורית</div><div class="TTLesson"><b>פרויקט גמר</b>&nbsp;&nbsp;(418 מחשבים)<br>לוי אלברט</div><div class="TTLesson"><b>הנדסת אלקטרוניקה</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(419 מחשבים)<br>בר זאב ענבל</div><div class="TTLesson"><b>יישומי מחשב</b>&nbsp;&nbsp;(מרכז יזמות)<br>אזרזר גל</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(418 מחשבים)<br>יוסף שלומית</div><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(304 יא5)<br>כהן מאירה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(304 יא5)<br>כהן מאירה</div><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(102 ט2)<br>יוסף שלומית</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>חינוך גופני</b><br>גל אלכסנדרה</div><div class="TTLesson"><b>חינוך גופני</b><br>שושן אלי</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>4<br><span class="hour-time">10:50</span><br><span class="hour-time">11:35</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>תולדות האומנות</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>בן ישראל אתי</div><div class="TTLesson"><b>כימיה מעבדה</b>&nbsp;&nbsp;(404)<br>פלקוביץ דורית</div><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(416 תקשורת)<br>חתוקה שני</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>פסיכולוגיה הערכה בי"ס</b>&nbsp;&nbsp;(304 יא5)<br>אהוד חנה</div><div class="TTLesson"><b>אסמבלר</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(415)<br>בלוך יקותיאל</div><div class="TTLesson"><b>שפת C</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>דגן חנן</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFreeChange">ביטול פסיכולוגיה 2, חדידה גילאור</td></tr><tr><td class="TableFillChange">חתוקה שני -&gt; חדר: 104 ט3</td></tr></tbody></table><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(419 מחשבים)<br>בר זאב ענבל</div><div class="TTLesson"><b>כימיה</b>&nbsp;&nbsp;(304 יא5)<br>פלקוביץ דורית</div><div class="TTLesson"><b>פרויקט גמר</b>&nbsp;&nbsp;(418 מחשבים)<br>לוי אלברט</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>הנדסת אלקטרוניקה</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div><div class="TTLesson"><b>יישומי מחשב</b>&nbsp;&nbsp;(מרכז יזמות)<br>אזרזר גל</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(418 מחשבים)<br>יוסף שלומית</div><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(304 יא5)<br>כהן מאירה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(304 יא5)<br>כהן מאירה</div><div class="TTLesson"><b>לשון</b>&nbsp;&nbsp;(102 ט2)<br>יוסף שלומית</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>חינוך גופני</b><br>שושן אלי</div><div class="TTLesson"><b>חינוך גופני</b><br>גל אלכסנדרה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>5<br><span class="hour-time">12:00</span><br><span class="hour-time">12:45</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(102 ט2)<br>פולאק דיאנה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(109 חדר היסטוריה)<br>קרייזרמן דיאנה</div><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(206)<br>פרקל טל</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(104 ט3)<br>מסלטי ויקי</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFillChange">שלי דינה -&gt; חדר: 318 י8</td></tr></tbody></table><div class="TTLesson"><b>אנגלית 16587</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div><div class="TTLesson"><b>אנגלית 16582</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div><div class="TTLesson"><b>אנגלית 16481</b>&nbsp;&nbsp;(304 יא5)<br>דאבוש גילה</div><div class="TTLesson"><b>אנגלית 16483</b>&nbsp;&nbsp;(102 ט2)<br>מרקוס רחלי</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>אנגלית 16383</b>&nbsp;&nbsp;(402)<br>שוחט מלי</div><div class="TTLesson"><b>אנגלית 16582</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div><div class="TTLesson"><b>אנגלית 16385</b>&nbsp;&nbsp;(304 יא5)<br>מרקוס רחלי</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div><div class="TTLesson"><b>אנגלית 16385</b>&nbsp;&nbsp;(201  ט7)<br>שלי דינה</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(314 י5)<br>דאבוש גילה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>ספרות</b>&nbsp;&nbsp;(304 יא5)<br>שמיר עדנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>חינוך</b>&nbsp;&nbsp;(304 יא5)<br>פלקוביץ דורית</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>6<br><span class="hour-time">12:45</span><br><span class="hour-time">13:30</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(206)<br>פרקל טל</div><div class="TTLesson"><b>מתמטיקה 35381</b>&nbsp;&nbsp;(104 ט3)<br>מסלטי ויקי</div><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(102 ט2)<br>פולאק דיאנה</div><div class="TTLesson"><b>מתמטיקה 35481</b>&nbsp;&nbsp;(109 חדר היסטוריה)<br>קרייזרמן דיאנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFillChange">שלי דינה -&gt; חדר: 318 י8</td></tr></tbody></table><div class="TTLesson"><b>אנגלית 16587</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div><div class="TTLesson"><b>אנגלית 16587</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div><div class="TTLesson"><b>אנגלית 16381</b>&nbsp;&nbsp;(102 ט2)<br>מרקוס רחלי</div><div class="TTLesson"><b>אנגלית 16481</b>&nbsp;&nbsp;(304 יא5)<br>דאבוש גילה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>אנגלית 16383</b>&nbsp;&nbsp;(201  ט7)<br>שלי דינה</div><div class="TTLesson"><b>אנגלית 16381</b>&nbsp;&nbsp;(402)<br>שוחט מלי</div><div class="TTLesson"><b>אנגלית 16383</b>&nbsp;&nbsp;(304 יא5)<br>מרקוס רחלי</div><div class="TTLesson"><b>אנגלית 16481</b>&nbsp;&nbsp;(412 אנגלית)<br>פינצ'בסקי נטליה</div><div class="TTLesson"><b>אנגלית 16587</b>&nbsp;&nbsp;(314 י5)<br>דאבוש גילה</div><div class="TTLesson"><b>אנגלית 16583</b>&nbsp;&nbsp;(426)<br>פיסטול ילנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>פיסול</b>&nbsp;&nbsp;(מרכז יזמות)<br>אזרזר גל</div><div class="TTLesson"><b>כימיה</b>&nbsp;&nbsp;(401)<br>פלקוביץ דורית</div><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(419 מחשבים)<br>בר זאב ענבל</div><div class="TTLesson"><b>פרויקט גמר</b>&nbsp;&nbsp;(418 מחשבים)<br>לוי אלברט</div><div class="TTLesson"><b>שפת C</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>דגן חנן</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(304 יא5)<br>חתוקה שני</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הסטוריה</b>&nbsp;&nbsp;(304 יא5)<br>לוטן לאה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>7<br><span class="hour-time">13:45</span><br><span class="hour-time">14:30</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFillChange">קול סורין -&gt; חדר: 118 ז1</td></tr></tbody></table><div class="TTLesson"><b>מחשבת ישראל</b>&nbsp;&nbsp;(419 מחשבים)<br>מלכה אהרון</div><div class="TTLesson"><b>ביולוגיה</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>יסודות העיצוב</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>אלעד אור</div><div class="TTLesson"><b>תורת המבנים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>אסמבלר</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div><div class="TTLesson"><b>פסיכולוגיה 2</b>&nbsp;&nbsp;(313 י4)<br>חדידה גילאור</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(415)<br>בלוך יקותיאל</div><div class="TTLesson"><b>כימיה</b>&nbsp;&nbsp;(401)<br>פלקוביץ דורית</div><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(419 מחשבים)<br>בר זאב ענבל</div><div class="TTLesson"><b>בלוגים</b>&nbsp;&nbsp;(304 יא5)<br>חתוקה שני</div><div class="TTLesson"><b>פיסול</b>&nbsp;&nbsp;(מרכז יזמות)<br>אזרזר גל</div><div class="TTLesson"><b>הנדסת אלקטרוניקה</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div><div class="TTLesson"><b>יישומים בטכנולוגיית הבנייה</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>פרויקט גמר</b>&nbsp;&nbsp;(418 מחשבים)<br>לוי אלברט</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>ספרות</b>&nbsp;&nbsp;(304 יא5)<br>שמיר עדנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>8<br><span class="hour-time">14:30</span><br><span class="hour-time">15:15</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מתמטיקה 35581</b>&nbsp;&nbsp;(319-יב 5 +מתמטיקה)<br>גירשקין מרינה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"><tbody><tr><td class="TableFillChange">קול סורין -&gt; חדר: 118 ז1</td></tr></tbody></table><div class="TTLesson"><b>ביוחקר</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div><div class="TTLesson"><b>מחשבת ישראל</b>&nbsp;&nbsp;(419 מחשבים)<br>מלכה אהרון</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>תורת המבנים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>יסודות העיצוב</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>אלעד אור</div><div class="TTLesson"><b>אסמבלר</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>חישובים סטטיים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>חכימה גיא</div><div class="TTLesson"><b>מערכות משובצות מחשב</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div><div class="TTLesson"><b>ג'אווה</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div><div class="TTLesson"><b>הפקה בטלוויזיה</b>&nbsp;&nbsp;(415)<br>בלוך יקותיאל</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>ספרות</b>&nbsp;&nbsp;(304 יא5)<br>שמיר עדנה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>9<br><span class="hour-time">15:30</span><br><span class="hour-time">16:15</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>פרויקט גמר</b>&nbsp;&nbsp;(418 מחשבים)<br>לוי אלברט</div><div class="TTLesson"><b>ביוחקר</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>פיסיקה</b>&nbsp;&nbsp;(304 יא5)<br>קול סורין</div><div class="TTLesson"><b>תורת המבנים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>דוסיק דניאלה</div><div class="TTLesson"><b>ביולוגיה</b>&nbsp;&nbsp;(405 מעבדה ביוטכנולוגיה)<br>פינטו פרנקל יוליה</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>מערכות משובצות מחשב</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div><div class="TTLesson"><b>חישובים סטטיים</b>&nbsp;&nbsp;(422 הנדסת בניין)<br>חכימה גיא</div><div class="TTLesson"><b>ג'אווה</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>תולדות האומנות</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>בן ישראל אתי</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>10<br><span class="hour-time">16:15</span><br><span class="hour-time">17:00</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>פיסיקה</b>&nbsp;&nbsp;(304 יא5)<br>קול סורין</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>ג'אווה</b>&nbsp;&nbsp;(419 מחשבים)<br>בן שיטרית יצחק</div><div class="TTLesson"><b>הנדסת אלקטרוניקה</b>&nbsp;&nbsp;(423 אלקטרוניקה)<br>פריבורקין סרג'יו</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>סדנא אומנות שימושית</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>גיאת ארנון</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>11<br><span class="hour-time">17:15</span><br><span class="hour-time">18:00</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table><div class="TTLesson"><b>סדנא אומנות שימושית</b>&nbsp;&nbsp;(411 סדנת אומנות)<br>גיאת ארנון</div>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>12<br><span class="hour-time">18:05</span><br><span class="hour-time">18:55</span></b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>13</b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		<tr valign="top" bgcolor="#ffffff">
+			<td class="CName" valign="middle"><b>14</b></td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+			<td class="TTCell" nowrap="">
+				<table width="100%"></table>
+			</td>
+            
+		</tr>
+	
+		</tbody>

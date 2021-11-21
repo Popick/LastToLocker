@@ -5,16 +5,45 @@
 	 color: #1d1f20;
 	 font-family: 'Raleway', sans-serif;
 }
-#table {
-  border: 1px solid black;
-}
+
 
 #table {
+  border: 1px solid black;
 	margin: 0 auto;
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 95%;
+  width: 99%;
 }
+
+
+
+#daysTable {
+  text-align: center;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+  margin-bottom: 2%;
+}
+#daysTable td{
+  border: 1px solid black;
+  width: 50px;
+  height: 35px;
+  background-color: #6696ff;
+}
+
+#daysTable td:hover{
+  font-size: 120%;
+  background-color:#5388ff;
+  cursor: pointer;
+}
+
+#daysTable td:active{
+  font-size: 120%;
+  background-color:#336fff;
+  cursor: pointer;
+}
+
 
 #table th, #table td{
   border: 1px solid #ddd;
@@ -53,7 +82,9 @@
 .TableExamChange{
   background-color: yellow;
 }
-
+.invisible{
+  display: none;
+}
 	</style>
 
 	<head>
@@ -73,6 +104,18 @@
 
 
 <h1 align="center">AMOGUS in FORTNITE!</h1>
+
+<table dir="rtl" id="daysTable">
+  <tr>
+    <td id="day1">א'</td>
+    <td id="day2">ב'</td>
+    <td id="day3">ג'</td>
+    <td id="day4">ד'</td>
+    <td id="day5">ה'</td>
+    <td id="day6">ו'</td>
+  </tr>
+</table>
+
 
 <table dir="rtl" id="table">
 </table>
